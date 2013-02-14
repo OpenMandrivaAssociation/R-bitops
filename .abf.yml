@@ -1,2 +1,4 @@
+removed_sources:
+  bitops_1.0-4.1.tar.gz: c139cdb4e68829198b96dc5f899f3ad39c1957dd
 sources:
-  "bitops_1.0-4.1.tar.gz": c139cdb4e68829198b96dc5f899f3ad39c1957dd
+  bitops_1.0-5.tar.gz: da6af97da4041f0c98de0bd61deea39c596940b8
