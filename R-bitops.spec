@@ -3,7 +3,7 @@
 
 Name:             R-%{packname}
 Version:          1.0.6
-Release:          1
+Release:          2
 Summary:          Functions for Bitwise operations
 Group:            Sciences/Mathematics
 License:          GPL (>= 2)
