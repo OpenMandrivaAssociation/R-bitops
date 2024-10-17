@@ -7,7 +7,7 @@ Release:          2
 Summary:          Functions for Bitwise operations
 Group:            Sciences/Mathematics
 License:          GPL (>= 2)
-URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
+URL:              https://cran.r-project.org/web/packages/%{packname}/index.html
 Source0:          http://cran.r-project.org/src/contrib/bitops_1.0-6.tar.gz
 BuildRequires:    R-devel Rmath-devel texlive-collection-latex 
 
